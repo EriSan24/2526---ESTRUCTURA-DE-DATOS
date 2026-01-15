@@ -1,0 +1,22 @@
+using System;           
+using System.Linq;
+using System.Collections.Generic;
+
+class Precios
+{
+    public List<int> Lista { get; } = new List<int> { 50, 75, 46, 22, 80, 65, 8 };
+
+    public void MostrarExtremos()
+    {
+        Console.WriteLine($"Menor: {Lista.Min()}, Mayor: {Lista.Max()}");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Precios p = new Precios();
+        p.MostrarExtremos();
+    }
+}

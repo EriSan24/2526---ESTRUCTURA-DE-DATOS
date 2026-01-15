@@ -1,0 +1,15 @@
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\bin\Debug\net10.0\semana05-4.exe
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\bin\Debug\net10.0\semana05-4.deps.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\bin\Debug\net10.0\semana05-4.runtimeconfig.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\bin\Debug\net10.0\semana05-4.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\bin\Debug\net10.0\semana05-4.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.AssemblyInfo.cs
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.sourcelink.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\refint\semana05-4.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\semana05-4.genruntimeconfig.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\semana05-4\obj\Debug\net10.0\ref\semana05-4.dll

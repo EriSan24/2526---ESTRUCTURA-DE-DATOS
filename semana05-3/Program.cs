@@ -1,2 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace TareaSemana5.Ejercicio3
+{
+    public class Asignatura
+    {
+        public string Nombre { get; set; }
+        public string Codigo { get; set; }
+        public int Creditos { get; set; }
+    
+        public Asignatura() { }
+
+        public Asignatura(string nombre, string codigo, int creditos)
+        {
+            Nombre = nombre;
+            Codigo = codigo;
+            Creditos = creditos;
+        }
+
+        public override string ToString()
+        {
+            return $"{Codigo} - {Nombre} ({Creditos} créditos)";
+        }
+    }
+}

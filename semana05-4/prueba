@@ -22,4 +22,18 @@ namespace TareaSemana5.Ejercicio4
             return $"{Codigo} - {Nombre} ({Creditos} créditos)";
         }
     }
-}       
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Asignatura asignatura1 = new Asignatura("Matemáticas", "MAT101", 4);
+        Asignatura asignatura2 = new Asignatura("Física", "FIS101", 3);
+        Asignatura asignatura3 = new Asignatura("Química", "QUI101", 3);
+
+        Console.WriteLine(asignatura1);
+        Console.WriteLine(asignatura2);
+        Console.WriteLine(asignatura3);
+    }
+}

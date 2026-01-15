@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace TareaSemana5.Ejercicio2
 {
@@ -20,18 +20,6 @@ namespace TareaSemana5.Ejercicio2
         public override string ToString()
         {
             return $"{Codigo} - {Nombre} ({Creditos} créditos)";
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Asignatura asignatura1 = new Asignatura("Matemáticas", "MAT101", 4);
-            Asignatura asignatura2 = new Asignatura("Historia", "HIS202", 3);
-
-            Console.WriteLine(asignatura1);
-            Console.WriteLine(asignatura2);
         }
     }
 }

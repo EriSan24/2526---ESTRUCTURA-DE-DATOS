@@ -1,0 +1,15 @@
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\bin\Debug\net10.0\VacunacionCovid.exe
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\bin\Debug\net10.0\VacunacionCovid.deps.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\bin\Debug\net10.0\VacunacionCovid.runtimeconfig.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\bin\Debug\net10.0\VacunacionCovid.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\bin\Debug\net10.0\VacunacionCovid.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.AssemblyInfo.cs
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.sourcelink.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\refint\VacunacionCovid.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\VacunacionCovid.genruntimeconfig.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\DeberSemana10\VacunacionCovid\obj\Debug\net10.0\ref\VacunacionCovid.dll

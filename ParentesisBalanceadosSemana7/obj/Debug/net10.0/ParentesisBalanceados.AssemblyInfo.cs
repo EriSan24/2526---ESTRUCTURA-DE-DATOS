@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParentesisBalanceados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8104627d18bcf5127e09bdb20f7554c632756a55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe07af01f197969dac819c19c0e3b356867d2db6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParentesisBalanceados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParentesisBalanceados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

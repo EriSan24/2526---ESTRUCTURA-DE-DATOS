@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+
+namespace ColaAtraccion
+{
+    class Persona
+    {
+        public string Nombre { get; set; }
+
+        public Persona(string nombre)
+        {
+            Nombre = nombre;
+        }
+    }
+
+    class Atraccion
+    {
+        private Queue<Persona> cola;
+        private const int MAX_ASIENTOS = 30;
+
+        public Atraccion()
+        {
+            cola = new Queue<Persona>();
+        }
+
+        public void EncolarPersona(string nombre)
+        {
+            if (cola.Count < MAX_ASIENTOS)
+            {
+                cola.Enqueue(new Persona(nombre));
+                Console.WriteLine($"Persona {nombre} agregada a la cola.");
+            }
+            else
+            {
+                Console.WriteLine("No hay asientos disponibles.");
+            }
+        }
+
+        public void MostrarCola()
+        {
+            Console.WriteLine("\nPersonas en la cola:");
+            foreach (var persona in cola)
+            {
+                Console.WriteLine(persona.Nombre);
+            }
+        }
+
+        public void AsignarAsientos()
+        {
+            Console.WriteLine("\nAsignación de asientos:");
+            int asiento = 1;
+
+            while (cola.Count > 0)
+            {
+                Persona persona = cola.Dequeue();
+                Console.WriteLine($"Asiento {asiento} asignado a {persona.Nombre}");
+                asiento++;
+            }
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Atraccion atraccion = new Atraccion();
+
+            for (int i = 1; i <= 30; i++)
+            {
+                atraccion.EncolarPersona("Persona " + i);
+            }
+
+            atraccion.MostrarCola();
+            atraccion.AsignarAsientos();
+
+            Console.ReadLine();
+        }
+    }
+}

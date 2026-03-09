@@ -1,0 +1,15 @@
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.AssemblyInfo.cs
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.sourcelink.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\bin\Debug\net10.0\ParentesisBalanceados.exe
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\bin\Debug\net10.0\ParentesisBalanceados.deps.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\bin\Debug\net10.0\ParentesisBalanceados.runtimeconfig.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\bin\Debug\net10.0\ParentesisBalanceados.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\bin\Debug\net10.0\ParentesisBalanceados.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\refint\ParentesisBalanceados.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ParentesisBalanceados.genruntimeconfig.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\ParentesisBalanceadosSemana7\obj\Debug\net10.0\ref\ParentesisBalanceados.dll

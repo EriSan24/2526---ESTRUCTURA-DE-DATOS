@@ -1,0 +1,15 @@
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\bin\Debug\net10.0\TareaSemana14.exe
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\bin\Debug\net10.0\TareaSemana14.deps.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\bin\Debug\net10.0\TareaSemana14.runtimeconfig.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\bin\Debug\net10.0\TareaSemana14.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\bin\Debug\net10.0\TareaSemana14.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.AssemblyInfo.cs
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.sourcelink.json
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\refint\TareaSemana14.dll
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.pdb
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\TareaSemana14.genruntimeconfig.cache
+C:\Users\Erick\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS\TareaSemana14\obj\Debug\net10.0\ref\TareaSemana14.dll
